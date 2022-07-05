@@ -1,0 +1,15 @@
+* {
+    background-color: rgb(146, 168, 209);
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    border-style: solid;
+}
+
+img {
+    border-radius: 25px;
+}
